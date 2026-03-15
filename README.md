@@ -1,4 +1,4 @@
-# Financial Transaction Analyzer 📊
+# Financial Transaction Analyzer 
 
 An AI-powered financial assistant that categorizes transactions, detects suspicious activity, and provides personalized spending insights. This project uses **Streamlit** for the interface and **LangChain** with **Groq (Llama 3.3)** for intelligent analysis.
 
