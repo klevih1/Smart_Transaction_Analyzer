@@ -1,0 +1,9 @@
+dotenv
+pandas
+matplotlib
+python-dotenv
+langchain
+langchain-groq
+openpyxl  # if reading Excel files
+streamlit
+python-dotenv

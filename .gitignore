@@ -1,0 +1,5 @@
+.env
+LangChain2/
+.venv/
+*.csv.env
+.venv/
